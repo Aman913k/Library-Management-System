@@ -7,8 +7,6 @@ import (
 	"log"
 	"net/http"
 
-	// "github.com/Aman913k/mongoapiLMS/model"
-
 	"github.com/Aman913k/MONGOAPILMS/model"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
